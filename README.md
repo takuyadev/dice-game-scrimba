@@ -1,5 +1,7 @@
 # Dice Game - Scrimba
 
+This project is deployed at the [link here.](https://takuyadev.github.io/dice-game-scrimba/)
+
 ### `Summary`
 
 This project is part of the challenge section of the "The Front-End Developer Crash Course". However, for this project, I personally challenged myself to create the application without the help of the teacher, and only watching once completed.

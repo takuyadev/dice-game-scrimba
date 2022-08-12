@@ -4,8 +4,7 @@
 
 This project is part of the challenge section of the "The Front-End Developer Crash Course". However, for this project, I personally challenged myself to create the application without the help of the teacher, and only watching once completed.
 
-
-This project is a dice game that rolls the dice until one person reaches the number 20, where then it declares a winner. From there, they can choose to reset the game to play again.
+This application is a dice game that rolls the dice until one person reaches the number 20, where then it declares a winner. From there, they can choose to reset the game to play again.
 
 ### `Languages / Techstack`
 

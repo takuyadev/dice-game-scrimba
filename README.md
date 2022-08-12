@@ -1,10 +1,9 @@
 # Dice Game - Scrimba
 
-### `The Challenge`
-
-The challenge was to create a roll a dice game to race to see who gets to the number 20 first, and was part of the "The Front-End Developer Career Path" course from Scrimba.
-
 ### `Summary`
+
+This project is part of the challenge section of the "The Front-End Developer Crash Course". However, for this project, I personally challenged myself to create the application without the help of the teacher, and only watching once completed.
+
 
 This project is a dice game that rolls the dice until one person reaches the number 20, where then it declares a winner. From there, they can choose to reset the game to play again.
 
